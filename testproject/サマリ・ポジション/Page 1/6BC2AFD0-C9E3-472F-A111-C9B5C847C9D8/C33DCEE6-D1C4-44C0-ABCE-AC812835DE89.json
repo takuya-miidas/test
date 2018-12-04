@@ -36,10 +36,11 @@
     "string": "サマリ・ポジション"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "C6B1FE61-A38D-4C45-B7EA-C597706D2C69",
+  "do_objectID": "C33DCEE6-D1C4-44C0-ABCE-AC812835DE89",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "97C04575-3741-4115-8395-CECBAB23E27E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,10 +51,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "A653F8CF-0B11-4407-9827-F3D7C5715137",
     "height": 16,
     "width": 144,
     "x": 28,
-    "y": 121
+    "y": 162
   },
   "glyphBounds": "{{0, 0}, {143, 16}}",
   "isFlippedHorizontal": false,
@@ -70,11 +72,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "11962636-88FD-4336-854D-A5E9BBC42718",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B1B90BD7-BCE8-4D77-84B7-BCE3886F91AC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
