@@ -47,8 +47,16 @@
       "id": "65F44C54-BC21-426A-9F2E-074781169E9A"
     },
     {
+      "class": "shapeGroup",
+      "id": "496E79CA-BF7B-4EFE-897C-18AEA4F0CA99"
+    },
+    {
       "class": "text",
       "id": "A8B5CB53-FADB-4354-BAB9-2C433D25041A"
+    },
+    {
+      "class": "text",
+      "id": "C37A9B96-A6DA-4EE9-A534-714AB038D143"
     }
   ],
   "name": "Artboard",
